@@ -16,4 +16,6 @@ router.get("/view",async(req,res)=>{
     res.json(data)
 })
 
+
+
 module.exports=router
